@@ -1,9 +1,2 @@
 this is remote
-<<<<<<< HEAD
-<<<<<<< HEAD
 test
-=======
-remote test
->>>>>>> 33837645fc92231099895f731d9326874d467dc7
-=======
->>>>>>> e5c801e5c0a33c94c0e235edb634a8b1274886aa
