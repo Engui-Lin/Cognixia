@@ -1,0 +1,10 @@
+linux commands
+adding to stage
+commit changes
+creating branches
+merging branches
+types of merging
+remote repo
+pushing and pulling
+setting upstream
+creating remote branch from local
