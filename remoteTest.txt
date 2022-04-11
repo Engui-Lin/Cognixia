@@ -1,2 +1,6 @@
 this is remote
+<<<<<<< HEAD
 test
+=======
+remote test
+>>>>>>> 33837645fc92231099895f731d9326874d467dc7
